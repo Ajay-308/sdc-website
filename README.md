@@ -43,4 +43,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 3. Ayush Gupta
 4. Archit Gupta
 5. Shubh Sardana
+6. Shubhada
 
