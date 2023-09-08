@@ -38,4 +38,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 1. Ayush Goyal
 2. Ajay
 3. Ayush Gupta
-4. Anubhav Goyal
+4. Archit Gupta
+5. Shubh Sardana
+6. Vansh Goel
+7. Shubhada
+8. Megha Mandal
+9. Sarthak
+10. Anubhav Goyal
