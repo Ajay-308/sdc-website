@@ -43,4 +43,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 6. Vansh Goel
 7. Shubhada
 8. Megha Mandal
+9. Sarthak
 
